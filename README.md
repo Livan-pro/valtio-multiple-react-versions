@@ -22,3 +22,5 @@ This setup causes Yarn to install Valtio in two places:
 3. Run `yarn dev`
 4. Open http://localhost:5173 in the browser
 5. Observe `Please use proxy object` and `TypeError: proxyState is not iterable` in the terminal and the browser
+
+## [Discussion](https://github.com/pmndrs/valtio/discussions/1205)
