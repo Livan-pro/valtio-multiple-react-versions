@@ -3,5 +3,8 @@
   "packageManager": "yarn@4.12.0",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "dev": "yarn workspace react-19-app-ssr run dev"
+  }
 }
