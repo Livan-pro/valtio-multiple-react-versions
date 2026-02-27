@@ -1,0 +1,14 @@
+{
+  "name": "react-18-app2",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "shared-state": "workspace:*",
+    "valtio": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.28",
+    "@types/react-dom": "^18.3.7"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shared-state",
+  "packageManager": "yarn@4.12.0",
+  "dependencies": {
+    "valtio": "^2.3.0"
+  }
+}
